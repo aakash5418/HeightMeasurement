@@ -1,0 +1,15 @@
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\bin\Debug\net6.0\AboveAndBelowAverageHeight.exe
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\bin\Debug\net6.0\AboveAndBelowAverageHeight.deps.json
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\bin\Debug\net6.0\AboveAndBelowAverageHeight.runtimeconfig.json
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\bin\Debug\net6.0\AboveAndBelowAverageHeight.dll
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\bin\Debug\net6.0\AboveAndBelowAverageHeight.pdb
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.csproj.AssemblyReference.cache
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.AssemblyInfoInputs.cache
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.AssemblyInfo.cs
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.csproj.CoreCompileInputs.cache
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.dll
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\refint\AboveAndBelowAverageHeight.dll
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.pdb
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\AboveAndBelowAverageHeight.genruntimeconfig.cache
+C:\phase3\AboveAndBelowAverageHeight\AboveAndBelowAverageHeight\obj\Debug\net6.0\ref\AboveAndBelowAverageHeight.dll

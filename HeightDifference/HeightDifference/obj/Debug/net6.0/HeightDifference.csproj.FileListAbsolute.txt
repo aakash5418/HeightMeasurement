@@ -1,0 +1,15 @@
+C:\phase3\HeightDifference\HeightDifference\bin\Debug\net6.0\HeightDifference.exe
+C:\phase3\HeightDifference\HeightDifference\bin\Debug\net6.0\HeightDifference.deps.json
+C:\phase3\HeightDifference\HeightDifference\bin\Debug\net6.0\HeightDifference.runtimeconfig.json
+C:\phase3\HeightDifference\HeightDifference\bin\Debug\net6.0\HeightDifference.dll
+C:\phase3\HeightDifference\HeightDifference\bin\Debug\net6.0\HeightDifference.pdb
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.csproj.AssemblyReference.cache
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.AssemblyInfoInputs.cache
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.AssemblyInfo.cs
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.csproj.CoreCompileInputs.cache
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.dll
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\refint\HeightDifference.dll
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.pdb
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\HeightDifference.genruntimeconfig.cache
+C:\phase3\HeightDifference\HeightDifference\obj\Debug\net6.0\ref\HeightDifference.dll

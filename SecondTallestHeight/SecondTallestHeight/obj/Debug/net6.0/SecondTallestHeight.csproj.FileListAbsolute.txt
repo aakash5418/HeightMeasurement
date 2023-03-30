@@ -1,0 +1,15 @@
+C:\phase3\SecondTallestHeight\SecondTallestHeight\bin\Debug\net6.0\SecondTallestHeight.exe
+C:\phase3\SecondTallestHeight\SecondTallestHeight\bin\Debug\net6.0\SecondTallestHeight.deps.json
+C:\phase3\SecondTallestHeight\SecondTallestHeight\bin\Debug\net6.0\SecondTallestHeight.runtimeconfig.json
+C:\phase3\SecondTallestHeight\SecondTallestHeight\bin\Debug\net6.0\SecondTallestHeight.dll
+C:\phase3\SecondTallestHeight\SecondTallestHeight\bin\Debug\net6.0\SecondTallestHeight.pdb
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.csproj.AssemblyReference.cache
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.AssemblyInfoInputs.cache
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.AssemblyInfo.cs
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.csproj.CoreCompileInputs.cache
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.dll
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\refint\SecondTallestHeight.dll
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.pdb
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\SecondTallestHeight.genruntimeconfig.cache
+C:\phase3\SecondTallestHeight\SecondTallestHeight\obj\Debug\net6.0\ref\SecondTallestHeight.dll

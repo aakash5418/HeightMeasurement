@@ -1,0 +1,15 @@
+C:\Phase3\ClosestHeight\ClosestHeight\bin\Debug\net6.0\ClosestHeight.exe
+C:\Phase3\ClosestHeight\ClosestHeight\bin\Debug\net6.0\ClosestHeight.deps.json
+C:\Phase3\ClosestHeight\ClosestHeight\bin\Debug\net6.0\ClosestHeight.runtimeconfig.json
+C:\Phase3\ClosestHeight\ClosestHeight\bin\Debug\net6.0\ClosestHeight.dll
+C:\Phase3\ClosestHeight\ClosestHeight\bin\Debug\net6.0\ClosestHeight.pdb
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.csproj.AssemblyReference.cache
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.AssemblyInfoInputs.cache
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.AssemblyInfo.cs
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.csproj.CoreCompileInputs.cache
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.dll
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\refint\ClosestHeight.dll
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.pdb
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ClosestHeight.genruntimeconfig.cache
+C:\Phase3\ClosestHeight\ClosestHeight\obj\Debug\net6.0\ref\ClosestHeight.dll
